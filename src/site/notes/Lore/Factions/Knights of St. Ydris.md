@@ -5,7 +5,7 @@
 Cursed knights who walk the path of [[Lore/Legends/St. Ydris the Unholy\|St. Ydris the Unholy]], the Possessed.
 They embrace the darkness in order to fight it, cleansing evil with a flurry of steel and forbidden sorcery.
 
-Initiates are to ingest the blood of the Great Demonic Lord [[Tzakoru\|Tzakoru]] who has possessed St. Ydris and lies dormant trapped within the catacombs of [[Locations/Settlements/Greywall Priory\|Greywall Priory]].
+Initiates are to ingest the blood of the Great Demonic Lord [[Lore/Legends/Tzakoru\|Tzakoru]] who has possessed St. Ydris and lies dormant trapped within the catacombs of [[Locations/Settlements/Greywall Priory\|Greywall Priory]].
 
 ## NPCs
 - [[Lore/NPCs/Inquisitor Justinia Morvin\|Inquisitor Justinia Morvin]]
