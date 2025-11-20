@@ -7,3 +7,6 @@ Mostly seen in the North-Eastern forest of the [[Gloaming\|Gloaming]].
 
 They praise [[Lore/Gods/Almazaat\|Almazaat]], Devourer of Worlds.
 
+Known members:
+- [[Lios Farclaw\|Lios Farclaw]]
+- [[Red Judge\|Red Judge]]
