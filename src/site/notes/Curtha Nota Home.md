@@ -3,4 +3,4 @@
 ---
 
 ## Welcome to the Dirmadta Archive
-![orb.webp](/img/user/orb.webp)
+![orb.webp](/img/user/zInsters/orb.webp)
