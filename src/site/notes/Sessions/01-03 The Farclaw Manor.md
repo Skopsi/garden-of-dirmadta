@@ -2,8 +2,9 @@
 {"dg-publish":true,"permalink":"/sessions/01-03-the-farclaw-manor/"}
 ---
 
-After a regular at the Rusted Chain gives away the location of an abandoned manor that is ripe for looting, the [[Lore/Factions/Golden Maggots\|Golden Maggots]] spring into action and head towards the [[Locations/Dungeons/Farclaw Manor\|Farclaw Manor]].
-
-Spearheaded by [[Lore/NPCs/Brigg\|Brigg]], the gang's mission is to find access to the cellar below, as that is where the real valuables dwell.
-
-Most of the gang and other participants of the raid are attacked by swarms of sting bats, and only a lucky few manage to make it inside the manor.
+- After a regular at the Rusted Chain gives away the location of an abandoned manor that is ripe for looting, the [[Lore/Factions/Golden Maggots\|Golden Maggots]] spring into action and head towards the [[Locations/Dungeons/Farclaw Manor\|Farclaw Manor]]. Spearheaded by [[Lore/NPCs/Brigg\|Brigg]], the gang's mission is to find access to the cellar below, as that is where the real valuables dwell. Most of the gang and other participants of the raid are attacked by swarms of [[Bestiary/Sting Bats\|Sting Bats]], and only a lucky few manage to make it inside the manor.
+- The gang splits up as [[Lore/NPCs/Brigg\|Brigg]] heads down to the cellar door to try and brute force it open.
+  Some of the party is killed by stray sting bats, old shoddy stairs, and [[Bestiary/Bogthorns\|Bogthorns]] lurking in the shadows.
+- Eventually the surviving members, [[Characters/Goose\|Goose]], [[Characters/Torb\|Torb]], [[Characters/Yashrug\|Yashrug]], and [[Characters/Boff Samways\|Boff Samways]] manage to find the corpse of [[Sylara Farclaw\|Sylara Farclaw]]. She holds a note describing her son's fate, as well as a [[Treasures/Knife of the Marrow Fiend\|Knife of the Marrow Fiend]] stabbed into her stomach. Yashrug takes the knife. The party is able to pinpoint the location of the cellar key by the note's descriptions.
+- [[Characters/Goose\|Goose]] finds a fine blue and gold cloak and a mask called [[Treasures/Face of Perdition\|Face of Perdition]]. [[Characters/Boff Samways\|Boff Samways]] finds a pan flute that summons a demon who owes one favor to the instruments owner.
+- The party manages to retrieve the key and return to [[Lore/NPCs/Brigg\|Brigg]] who appears to be suffering from [[Lore/Legends/Willow Blight\|Willow Blight]]. He leads the surviving members into the cellar and reveals this to be the entrance to [[Locations/Tir Latha\|Tir Latha]], a rumored paradise land belonging to the [[Lore/Factions/Fey\|Fey]]. Eventually the gang is interrupted by the [[Lore/Legends/Willowman\|Willowman]] who manages to curse [[Characters/Goose\|Goose]] before they all escape.
