@@ -11,5 +11,5 @@ Initiates are to ingest the blood of the Great Demonic Lord [[Lore/Legends/Tzako
 ## NPCs
 - [[Lore/NPCs/Inquisitor Justinia Morvin\|Inquisitor Justinia Morvin]]
 - [[Lore/NPCs/Maran Farclaw\|Maran Farclaw]]
-- [[Lore/NPCs/Garian Ledis\|Garian Ledis]]
+- [[Lore/NPCs/Garian\|Garian]]
 - [[Lore/NPCs/Nura\|Nura]]
