@@ -7,7 +7,7 @@
 - Party split, [[Characters/Yashrug\|Yashrug]] and [[Characters/Goose\|Goose]] are confronted by a a stranger. A quick fight breaks out and they find out the stranger is [[Reeve Tarley Winters\|Reeve Tarley Winters]]' son [[Hana Winters\|Hana Winters]] then went on to library to find [[Lore/NPCs/Harus\|Harus]].
 - Meanwhile, [[Characters/Torb\|Torb]] visited the fishery and saw a mutated catfish caught in [[Finimere Lake\|Finimere Lake]], and proceeds to wander into the [[Locations/Settlements/Vansen's Hold/Crayfish Tavern\|Crayfish Tavern]].
   He encountered a bandit and put a stop to it.
-- Yashrug and Goose find the library to be mostly emptied. [[Lore/NPCs/Harus\|Harus]] tells them he thinks [[Reeve Tarley Winters\|Reeve Tarley Winters]] has been brain washed by the [[Red Judge\|Red Judge]] into believing the knowledge contained here was dangerous.
+- Yashrug and Goose find the library to be mostly emptied. [[Lore/NPCs/Harus\|Harus]] tells them he thinks [[Reeve Tarley Winters\|Reeve Tarley Winters]] has been brain washed by the [[Lore/NPCs/Red Judge\|Red Judge]] into believing the knowledge contained here was dangerous.
 - [[Lore/NPCs/Harus\|Harus]] asks the party if they would be willing to retrieve the [[Tome of the Hourglass\|Tome of the Hourglass]] from [[Haldrin\|Haldrin]], a sorcerer who lives remotely in a tower on [[Finimere Lake\|Finimere Lake]]. Upon noticing [[Characters/Goose\|Goose]]'s condition, [[Lore/NPCs/Harus\|Harus]] tells them [[Lore/Gods/Titania\|Titania]], the Fey Goddess could possibly cure him.
   
 # Information Gained

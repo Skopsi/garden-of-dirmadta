@@ -4,7 +4,7 @@
 
 # Party Actions
 -  The party awakes in a daze on the floor of the [[Locations/Gloaming Forest\|Gloaming Forest]]. They are surrounded by black husk-like trees and lay paralyzed. A red cloaked figure dressed in shining adornments walks between them speaking Diabolic. He bends down near [[Characters/Goose\|Goose]] while speaking a prayer and pulls out a knife.
--  [[Lore/NPCs/Brigg Farclaw\|Brigg Farclaw]] attempts to interrupt but is quickly incapacitated by a spell and stabbed by the one referred to as the [[Red Judge\|Red Judge]]. 
+-  [[Lore/NPCs/Brigg Farclaw\|Brigg Farclaw]] attempts to interrupt but is quickly incapacitated by a spell and stabbed by the one referred to as the [[Lore/NPCs/Red Judge\|Red Judge]]. 
 - [[Lore/NPCs/Brigg Farclaw\|Brigg Farclaw]] is identified as a Farclaw and taken prisoner while the party is left to defend themselves from the [[Bestiary/Skrell\|Skrell]] birthing from the marrow trees around them.
 - The party is assisted by two [[Lore/Factions/Knights of St. Ydris\|Knights of St. Ydris]], one is killed and the other is revealed as [[Lore/NPCs/Maran Farclaw\|Maran Farclaw]].
 - They venture onwards to a large barren hill where they come across three scorched bodies hoisted onto stakes watching on in silence.

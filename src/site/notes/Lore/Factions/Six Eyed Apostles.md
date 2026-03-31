@@ -9,4 +9,4 @@ They praise [[Lore/Gods/Almazaat\|Almazaat]], the Devourer.
 
 Known members:
 - [[Lios Farclaw\|Lios Farclaw]]
-- [[Red Judge\|Red Judge]]
+- [[Lore/NPCs/Red Judge\|Red Judge]]
