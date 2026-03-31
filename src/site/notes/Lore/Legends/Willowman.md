@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lore/legends/willowman/","dg-note-properties":{}}
 ---
 
-A tall lanky humanoid figure made up of twisted branches and orange marshlights.
-It feeds off of fear and is capable of cursing it's victims with [[Lore/Legends/Willow Blight\|Willow Blight]] with just one touch.
-
-It is only capable of stalking in forests where other victims of the blight have perished.
+"Their reach beneath the soil like tethers to one another
+Thorough and designed, limbs turned bark turned sky turned eyes
+Soundless and serene sentinels in slumber
+Sown roots flourish while the keepers wither away inside"

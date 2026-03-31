@@ -14,3 +14,4 @@
   - Despite the scale of [[Locations/Settlements/Greywall Priory/Greywall Priory\|Greywall Priory]], the [[Lore/Factions/Knights of St. Ydris\|Knights of St. Ydris]] have only around 40 in number.
   - [[Characters/Goose\|Goose]] is inflicted by a curse from the [[Lore/Legends/Willowman\|Willowman]].  [[Lore/NPCs/Garian\|Garian]] recommends seeking out his brother in [[Locations/Settlements/Vansen's Hold/Vansen's Hold\|Vansen's Hold]] as he may know of a way to cure it.
   - [[Lore/Factions/Knights of St. Ydris\|Knights of St. Ydris]] have a poor reputation amongst the surviving settlements. They are blamed for the increasing demonic attacks.
+  - [[Characters/Yashrug\|Yashrug]] finds out he has some sort of blood connection with the [[Lore/Legends/Bittermold\|Bittermold]]s after speaking with [[Lore/Legends/St. Ydris the Unholy\|St. Ydris the Unholy]] during the ritual.
