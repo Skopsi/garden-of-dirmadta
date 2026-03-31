@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/settlements/greywall-priory/"}
+{"dg-publish":true,"permalink":"/locations/settlements/greywall-priory/","dg-note-properties":{}}
 ---
 
 ![Greywall.webp](/img/user/zInsters/Greywall.webp)

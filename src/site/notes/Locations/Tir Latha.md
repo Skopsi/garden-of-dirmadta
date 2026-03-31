@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/tir-latha/"}
+{"dg-publish":true,"permalink":"/locations/tir-latha/","dg-note-properties":{}}
 ---
 
 ![tir_latha.jpg](/img/user/zInsters/tir_latha.jpg)

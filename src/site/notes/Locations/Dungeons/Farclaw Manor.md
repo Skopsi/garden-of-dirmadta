@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/dungeons/farclaw-manor/"}
+{"dg-publish":true,"permalink":"/locations/dungeons/farclaw-manor/","dg-note-properties":{}}
 ---
 
 Tall trees cast a blanket of darkness across the old wooded manor as it lay nestled in smothering greenery. Thick vines wrap up the sides, as a large willow tree looms from behind. 

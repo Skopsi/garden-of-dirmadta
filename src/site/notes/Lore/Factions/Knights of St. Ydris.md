@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lore/factions/knights-of-st-ydris/"}
+{"dg-publish":true,"permalink":"/lore/factions/knights-of-st-ydris/","dg-note-properties":{}}
 ---
 
 ![Screenshot 2025-11-20 002750.png](/img/user/zInsters/Screenshot%202025-11-20%20002750.png)

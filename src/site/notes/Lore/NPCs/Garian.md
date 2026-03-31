@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lore/np-cs/garian/"}
+{"dg-publish":true,"permalink":"/lore/np-cs/garian/","dg-note-properties":{}}
 ---
 
 A member of the [[Lore/Factions/Knights of St. Ydris\|Knights of St. Ydris]].

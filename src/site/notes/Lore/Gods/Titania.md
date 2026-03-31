@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lore/gods/titania/"}
+{"dg-publish":true,"permalink":"/lore/gods/titania/","dg-note-properties":{}}
 ---
 
 The fickle Queen of the Fey who views all of existance as a whimsical dream with hidden meaning and poignant drama.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lore/gods/madeera-the-covenant/"}
+{"dg-publish":true,"permalink":"/lore/gods/madeera-the-covenant/","dg-note-properties":{}}
 ---
 
 The first manifestation of Law.

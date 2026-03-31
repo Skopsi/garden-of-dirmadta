@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lore/np-cs/maran-farclaw/"}
+{"dg-publish":true,"permalink":"/lore/np-cs/maran-farclaw/","dg-note-properties":{}}
 ---
 
 A member of the [[Lore/Factions/Knights of St. Ydris\|Knights of St. Ydris]].

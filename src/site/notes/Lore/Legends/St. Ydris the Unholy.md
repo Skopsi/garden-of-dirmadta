@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lore/legends/st-ydris-the-unholy/"}
+{"dg-publish":true,"permalink":"/lore/legends/st-ydris-the-unholy/","dg-note-properties":{}}
 ---
 
 A courageous member of the [[Lore/Factions/Green Knights\|Green Knights]].

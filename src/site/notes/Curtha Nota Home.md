@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/curtha-nota-home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/curtha-nota-home/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 ## Welcome to the Dirmadta Archive

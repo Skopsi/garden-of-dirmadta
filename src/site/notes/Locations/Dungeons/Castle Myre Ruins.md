@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/dungeons/castle-myre-ruins/"}
+{"dg-publish":true,"permalink":"/locations/dungeons/castle-myre-ruins/","dg-note-properties":{}}
 ---
 
 ![Castle_Myre.webp](/img/user/zInsters/Castle_Myre.webp)

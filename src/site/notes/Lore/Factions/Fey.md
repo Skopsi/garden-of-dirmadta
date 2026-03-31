@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lore/factions/fey/"}
+{"dg-publish":true,"permalink":"/lore/factions/fey/","dg-note-properties":{}}
 ---
 
 It is said that [[Locations/Tir Latha\|Tir Latha]] was once the original Fey Realm painted into existence.

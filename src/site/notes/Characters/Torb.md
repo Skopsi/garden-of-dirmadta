@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/characters/torb/","tags":["Dwarf","Priest"]}
+{"dg-publish":true,"permalink":"/characters/torb/","tags":["Dwarf","Priest"],"dg-note-properties":{"tags":["Dwarf","Priest"]}}
 ---
 

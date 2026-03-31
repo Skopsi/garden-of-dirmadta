@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lore/factions/golden-maggots/"}
+{"dg-publish":true,"permalink":"/lore/factions/golden-maggots/","dg-note-properties":{}}
 ---
 
 A gang that has taken up business on the outskirts of Makdain.

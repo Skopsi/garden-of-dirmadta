@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lore/legends/bittermold/"}
+{"dg-publish":true,"permalink":"/lore/legends/bittermold/","dg-note-properties":{}}
 ---
 
 A family that gained notoriety after being key role in the imprisoning of [[Lore/Legends/St. Ydris the Unholy\|St. Ydris the Unholy]] as well as becoming founders of the [[Lore/Factions/Knights of St. Ydris\|Knights of St. Ydris]].

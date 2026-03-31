@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lore/factions/demons/"}
+{"dg-publish":true,"permalink":"/lore/factions/demons/","dg-note-properties":{}}
 ---
 
 ![marrow_trees.png](/img/user/zInsters/marrow_trees.png)

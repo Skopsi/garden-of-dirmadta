@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lore/factions/six-eyed-apostles/"}
+{"dg-publish":true,"permalink":"/lore/factions/six-eyed-apostles/","dg-note-properties":{}}
 ---
 
 Red-eyed and crazed, this cult has only become more active in [[Locations/Tir Latha\|Tir Latha]] after the marrow trees started to grow.

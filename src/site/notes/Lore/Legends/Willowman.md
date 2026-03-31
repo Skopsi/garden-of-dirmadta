@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lore/legends/willowman/"}
+{"dg-publish":true,"permalink":"/lore/legends/willowman/","dg-note-properties":{}}
 ---
 
 A tall lanky humanoid figure made up of twisted branches and orange marshlights.
